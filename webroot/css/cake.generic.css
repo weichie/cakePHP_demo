@@ -1,0 +1,19 @@
+header{
+	border: 1px solid red;
+}
+.content{
+	border: 1px solid blue;
+}
+footer{
+	border: 1px solid lime;
+}
+
+table{
+	border: 1px solid #cccccc;
+	border-collapse: collapse;
+}
+table th,
+table td{
+	padding: 5px;
+	border: 1px solid #cccccc;
+}
