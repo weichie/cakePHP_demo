@@ -1,4 +1,4 @@
-<h1>Blog Post</h1>
+<h1>Blog Post <?= $current_user; ?></h1>
 <?= 
 	$this->Html->link(
 		'Add Post',

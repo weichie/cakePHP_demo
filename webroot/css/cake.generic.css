@@ -1,11 +1,11 @@
 header{
-	border: 1px solid red;
+	padding: 25px 0;
 }
 .content{
-	border: 1px solid blue;
+	padding: 25px 0;
 }
 footer{
-	border: 1px solid lime;
+	padding: 25px 0;
 }
 
 table{
